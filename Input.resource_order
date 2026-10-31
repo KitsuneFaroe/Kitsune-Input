@@ -1,0 +1,24 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Kitsune Inputs","order":4,"path":"folders/Kitsune Inputs.yy",},
+    {"name":"Touckscreen","order":10,"path":"folders/Kitsune Inputs/Touckscreen.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Input","order":8,"path":"objects/Input/Input.yy",},
+    {"name":"o_Input","order":6,"path":"objects/o_Input/o_Input.yy",},
+    {"name":"o_InputChange","order":2,"path":"objects/o_InputChange/o_InputChange.yy",},
+    {"name":"o_InputRecorder","order":3,"path":"objects/o_InputRecorder/o_InputRecorder.yy",},
+    {"name":"Object5","order":3,"path":"objects/Object5/Object5.yy",},
+    {"name":"Player","order":9,"path":"objects/Player/Player.yy",},
+    {"name":"ui_Touch","order":3,"path":"objects/ui_Touch/ui_Touch.yy",},
+    {"name":"ui_TouchButton","order":2,"path":"objects/ui_TouchButton/ui_TouchButton.yy",},
+    {"name":"ui_TouchStick","order":1,"path":"objects/ui_TouchStick/ui_TouchStick.yy",},
+    {"name":"room_InputTest","order":6,"path":"rooms/room_InputTest/room_InputTest.yy",},
+    {"name":"Room1","order":5,"path":"rooms/Room1/Room1.yy",},
+    {"name":"input_get_draw","order":1,"path":"scripts/input_get_draw/input_get_draw.yy",},
+    {"name":"scr_Inputs","order":5,"path":"scripts/scr_Inputs/scr_Inputs.yy",},
+    {"name":"s_InputSphere","order":7,"path":"sprites/s_InputSphere/s_InputSphere.yy",},
+    {"name":"s_InputSquare","order":4,"path":"sprites/s_InputSquare/s_InputSquare.yy",},
+    {"name":"Sprite1_foot","order":1,"path":"sprites/Sprite1_foot/Sprite1_foot.yy",},
+  ],
+}

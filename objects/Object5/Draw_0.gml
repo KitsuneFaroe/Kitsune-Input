@@ -1,0 +1,5 @@
+draw_text(x, y, char)
+//draw_text(x, y + 20, get_keyboard_keyname(key))
+draw_text(x, y + 40, chr(key))
+draw_text(x, y + 40, string(key))
+//draw_text(x, y + 60, ansi_char(key))
